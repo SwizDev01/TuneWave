@@ -7,7 +7,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/teamkronix/kronix-music-bot.git
+   git clone https://github.com/SwizDev01/TuneWave.git
    cd kronix-music-bot
    ```
 
@@ -23,7 +23,7 @@
 
 ## 🤖 Need Help?
 
-If you have any questions or run into issues, feel free to open an issue on GitHub or join our [Discord community](https://discord.gg/teamkronix).
+If you have any questions or run into issues, feel free to open an issue on GitHub or join our [Discord community](https://discord.gg/cXZASk8kYT).
 
 ```
 
