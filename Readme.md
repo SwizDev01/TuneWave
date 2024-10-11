@@ -1,4 +1,4 @@
-# TuneWave - By Kronix
+# TuneWave - By SwizDev
 
 ## Discord Music Bot
 ## This code ate every Discord music bot for an evening snack 
