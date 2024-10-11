@@ -3,6 +3,8 @@
 ## Discord Music Bot
 ## This code ate every Discord music bot for an evening snack 
 
+## Credits to TeamKronix for the code
+
 ### Setting Up
 
 1. Clone the repo:
